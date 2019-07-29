@@ -1,4 +1,4 @@
-/** @file    03-Semaforo.ino
+/** @file    02-Semaforo.ino
  *  @author  Jorge Villalobos Carvajal (jorgemvc@gmail.com)
  *  @date    29.Jul.2019
  *  @version 1.0 

@@ -1,4 +1,4 @@
-/** @file    06-Luz.ino
+/** @file    05-Luz.ino
  *  @author  Jorge Villalobos Carvajal (jorgemvc@gmail.com)
  *  @date    29.Jul.2019  
  *  @version 1.0 

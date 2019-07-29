@@ -1,4 +1,4 @@
-/** @file    07-Temperatura.ino
+/** @file    06-Temperatura.ino
  *  @author  Jorge Villalobos Carvajal (jorgemvc@gmail.com)
  *  @date    29.Jul.2019  
  *  @version 1.0 
