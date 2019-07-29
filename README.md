@@ -16,6 +16,7 @@ Programa | Descripción
 **05-Luz** | Sensor de luz
 **06-Temperatura** | Sensor de temperatura
 **07-Alarma** |  Alarma
+**S4A-Ultrasonico** |  Uso de la placa S4A con un sensor ultrasónico
 
 ## Licencia
 Este proyecto ha sido liberado bajo la licencia: **MIT License**
